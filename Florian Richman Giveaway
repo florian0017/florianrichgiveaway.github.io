@@ -1,0 +1,343 @@
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Official Florian Richman Giveaway Site. Register now with a one-time $100 fee and get rewarded." />
+  <meta name="keywords" content="giveaway, Florian Richman, winner, $100 registration, proof, Instagram, WhatsApp" />
+  <meta name="author" content="Florian Richman" />
+  <meta name="description" content="Official Florian Richman Giveaway Site. Join now, pay $100 registration, and receive your reward." />
+  <meta name="keywords" content="giveaway, Florian Richman, registration fee, winners, proof, $100" />
+<meta property="og:title" content="Florian Richman Giveaway (FRG)" />
+  <meta property="og:description" content="Join the official Florian Richman Giveaway. Register with $100 and receive your reward like other winners." />
+  <meta property="og:image" content="https://florian0017.github.io/assets/cover.jpg" />
+  <meta property="og:url" content="https://florian0017.github.io/" />
+  <meta property="og:description" content="Join our trusted giveaway community. 100% payout after registration." />
+  <meta property="og:image" content="https://florian0017.github.io/path-to-image.jpg" />
+  <meta property="og:url" content="https://florian0017.github.io" />
+  <meta name="author" content="Florian Richman - schwarzdietmar10@gmail.com" />
+<title>Florian Richman Giveaway (FRG)</title>
+  <style>
+    :root {
+      --primary-color: orange;
+      --bg-light: white;
+      --bg-dark: #000;
+      --text-light: #000;
+      --text-dark: #fff;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+  <style>
+body {
+margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: var(--bg-dark);
+      color: var(--text-dark);
+      background-image: url('your-blurry-background.jpg'); /* replace with uploaded image */
+      background-size: cover;
+      background-position: center;
+      backdrop-filter: blur(6px);
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+                  url('background.jpg') center/cover no-repeat fixed;
+      color: white;
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    h1, h2, h3 {
+      color: orange;
+      border-bottom: 2px solid orange;
+      padding-bottom: 5px;
+}
+
+header {
+text-align: center;
+      padding: 1em;
+      background-color: rgba(0, 0, 0, 0.8);
+      padding: 2rem;
+}
+
+    h1 {
+      font-size: 2em;
+      margin-bottom: 0.2em;
+      color: var(--primary-color);
+    .buttons {
+      text-align: center;
+      margin-bottom: 20px;
+}
+
+    .button-group a {
+    .buttons a {
+display: inline-block;
+      margin: 0.5em;
+      padding: 0.6em 1.2em;
+      text-decoration: none;
+      margin: 10px;
+      padding: 10px 20px;
+      border-radius: 8px;
+font-weight: bold;
+      border-radius: 6px;
+      text-decoration: none;
+color: white;
+}
+
+.whatsapp { background: #25D366; }
+    .email { background: #0078D4; }
+    .instagram { background: #C13584; }
+    .email { background: #007bff; }
+    .instagram { background: #E1306C; }
+
+    .section {
+      padding: 2em;
+      text-align: center;
+      background-color: rgba(0, 0, 0, 0.75);
+      margin: 1em auto;
+    section {
+max-width: 900px;
+      border-radius: 12px;
+    }
+
+    .section h2 {
+      color: var(--primary-color);
+      margin: auto;
+      padding: 2rem;
+}
+
+    ul.checklist {
+    ul {
+list-style: none;
+      padding-left: 0;
+      padding: 0;
+}
+
+    ul.checklist li::before {
+    ul li::before {
+content: "✅ ";
+      color: orange;
+    }
+
+    .gallery img {
+      width: 100%;
+      max-width: 300px;
+      margin: 10px;
+      border-radius: 10px;
+      cursor: pointer;
+      transition: transform 0.2s;
+}
+
+.gallery {
+display: flex;
+flex-wrap: wrap;
+      gap: 10px;
+justify-content: center;
+      margin-top: 1em;
+}
+
+    .gallery img {
+      width: 160px;
+      height: auto;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: transform 0.3s;
+    /* Lightbox */
+    .lightbox {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background: rgba(0,0,0,0.8);
+      display: none;
+      align-items: center;
+      justify-content: center;
+}
+
+    .gallery img:hover {
+      transform: scale(1.05);
+    .lightbox img {
+      max-width: 90%;
+      max-height: 80%;
+      border-radius: 10px;
+}
+
+    footer {
+      text-align: center;
+      padding: 1em;
+      font-size: 0.9em;
+      background: #111;
+      margin-top: 3em;
+    .faq {
+      background: rgba(255, 255, 255, 0.1);
+      padding: 1rem;
+      border-radius: 10px;
+      margin-top: 2rem;
+}
+
+    /* Light/Dark Mode */
+@media (prefers-color-scheme: light) {
+body {
+        background-color: var(--bg-light);
+        color: var(--text-light);
+        background: white;
+        color: black;
+}
+      header, .section {
+        background-color: rgba(255, 255, 255, 0.85);
+      }
+    }
+
+    /* Lightbox popup */
+    .lightbox {
+      display: none;
+      position: fixed;
+      z-index: 999;
+      left: 0;
+      top: 0;
+      width: 100vw;
+      height: 100vh;
+      background: rgba(0,0,0,0.9);
+      justify-content: center;
+      align-items: center;
+    }
+
+    .lightbox img {
+      max-width: 95%;
+      max-height: 90vh;
+    }
+      h1, h2, h3 {
+        color: orange;
+      }
+
+    .lightbox.show {
+      display: flex;
+      .faq {
+        background: rgba(0, 0, 0, 0.05);
+      }
+}
+</style>
+
+  <script>
+    // Language Detection
+    document.addEventListener('DOMContentLoaded', () => {
+      const lang = navigator.language || navigator.userLanguage;
+      if (lang.startsWith('de')) {
+        document.getElementById("faq-en").style.display = "none";
+        document.getElementById("faq-de").style.display = "block";
+      } else {
+        document.getElementById("faq-de").style.display = "none";
+        document.getElementById("faq-en").style.display = "block";
+      }
+    });
+  </script>
+</head>
+
+<body>
+
+<header>
+<h1>Florian Richman Giveaway (FRG)</h1>
+    <div class="button-group">
+    <div class="buttons">
+<a class="whatsapp" href="https://wa.me/18126043130" target="_blank">WhatsApp</a>
+<a class="email" href="mailto:schwarzdietmar10@gmail.com">Email</a>
+<a class="instagram" href="https://instagram.com/florian__richman" target="_blank">Instagram</a>
+</div>
+</header>
+
+  <section class="section">
+  <section>
+<h2>Registration Requirements</h2>
+    <ul class="checklist">
+    <ul>
+<li>Full Name</li>
+<li>Selfie Picture</li>
+<li>$100 Registration Fee</li>
+</ul>
+    <p>
+      <strong>Note:</strong> This fee is compulsory to confirm you as a verified winner. All previous winners paid this same registration fee and successfully received their winnings.
+    </p>
+</section>
+
+  <section class="section">
+    <h2>Trust & Assurance</h2>
+  <section>
+    <h2>Trust & Hope</h2>
+<p>
+      We are still giving you our 100% assurance and guarantee that you will surely receive your winnings like the other past beneficiaries, but now you seem to be depriving yourself from this blessing and your chance of getting this winnings is slipping away due to delays because you still remain among our beneficiary that is yet to receive your prize from our humble office so take note of that and act fast about this to avoid more delays okay.
+      We are still giving you our 100% assurance and guarantee that you will surely receive your winnings like the other past beneficiaries, 
+      but now you seem to be depriving yourself from this blessing and your chance of getting this winnings is slipping away due to delays 
+      because you still remain among our beneficiary that is yet to receive your prize from our humble office so take note of that and act 
+      fast about this to avoid more delays okay.
+</p>
+</section>
+
+  <section class="section">
+  <section>
+<h2>Proof & Testimonials</h2>
+<div class="gallery">
+      <img src="winner1.jpg" alt="One of our recent winners" onclick="openLightbox(this.src)" />
+      <img src="winner2.jpg" alt="One of our recent winners" onclick="openLightbox(this.src)" />
+      <img src="winner3.jpg" alt="One of our recent winners" onclick="openLightbox(this.src)" />
+      <img src="proof1.jpg" alt="Winner 1" onclick="openLightbox(this.src)">
+      <img src="proof2.jpg" alt="Winner 2" onclick="openLightbox(this.src)">
+      <img src="proof3.jpg" alt="Winner 3" onclick="openLightbox(this.src)">
+      <!-- Add more if needed -->
+</div>
+</section>
+
+  <section class="section">
+  <section class="faq">
+<h2>Frequently Asked Questions</h2>
+    <h3>English</h3>
+    <p><strong>What is the $100 registration fee for?</strong><br>This confirms you as a verified participant and covers processing to release your reward.</p>
+    <p><strong>When will I receive my giveaway reward?</strong><br>After successful registration, your reward is processed immediately.</p>
+    <p><strong>Is this legit? How do I trust this?</strong><br>We have many past winners who paid the same fee and received their prizes. You’ll find proof above.</p>
+
+    <h3>Deutsch</h3>
+    <p><strong>Wofür ist die Registrierungsgebühr von 100 $?</strong><br>Sie bestätigt Sie als verifizierten Teilnehmer und deckt die Bearbeitung Ihrer Auszahlung.</p>
+    <p><strong>Wann erhalte ich meinen Gewinn?</strong><br>Nach erfolgreicher Registrierung wird Ihre Auszahlung sofort bearbeitet.</p>
+    <p><strong>Ist das echt? Wie kann ich dem vertrauen?</strong><br>Es gibt viele Gewinner, die bereits ihre Gewinne erhalten haben. Sie finden Beweise oben.</p>
+  </section>
+
+  <footer>
+    Contact: schwarzdietmar10@gmail.com | WhatsApp: +1 (573) 318-4662 | Instagram: @jamiecooper_richman <br/>
+    &copy; 2025 Florian Richman Giveaway
+  </footer>
+    <div id="faq-en">
+      <p><strong>What is the $100 registration fee for?</strong><br>It confirms you as a winner and covers processing. All previous winners paid this and successfully received their prizes.</p>
+      <p><strong>When will I receive my giveaway reward?</strong><br>Once registration is confirmed and details submitted, your reward is processed shortly after.</p>
+      <p><strong>Is this legit? How do I trust this?</strong><br>Yes, we provide visual proof and always show new winners. We are transparent and provide personal contact via WhatsApp and Instagram.</p>
+    </div>
+
+    <div id="faq-de">
+      <p><strong>Wofür ist die Registrierungsgebühr von $100?</strong><br>Sie bestätigt Sie als Gewinner und deckt die Bearbeitung ab. Alle bisherigen Gewinner haben dies bezahlt und ihre Preise erhalten.</p>
+      <p><strong>Wann erhalte ich meinen Gewinn?</strong><br>Sobald Ihre Registrierung bestätigt ist und Ihre Daten vorliegen, wird Ihre Auszahlung bearbeitet.</p>
+      <p><strong>Ist das seriös? Wie kann ich das glauben?</strong><br>Ja, wir zeigen echte Beweise, Bilder und Testimonials. Kontaktieren Sie uns jederzeit über WhatsApp oder Instagram.</p>
+    </div>
+  </section>
+
+  <div class="lightbox" onclick="this.classList.remove('show')">
+    <img src="" alt="preview" />
+  <!-- Lightbox viewer -->
+  <div class="lightbox" onclick="this.style.display='none'">
+    <img id="lightbox-img" src="">
+</div>
+
+<script>
+    // Lightbox Function
+function openLightbox(src) {
+      const box = document.querySelector('.lightbox');
+      box.querySelector('img').src = src;
+      box.classList.add('show');
+    }
+
+    // Auto Language Switch
+    const userLang = navigator.language || navigator.userLanguage;
+    if (userLang.startsWith('de')) {
+      document.querySelectorAll('h3:nth-of-type(1), h3:nth-of-type(2), p').forEach(e => e.style.display = 'none');
+      document.querySelectorAll('h3:nth-of-type(3), h3:nth-of-type(4), p:nth-of-type(n+7)').forEach(e => e.style.display = 'block');
+      document.querySelector('.lightbox').style.display = 'flex';
+      document.getElementById('lightbox-img').src = src;
+}
+</script>
+
+</body>
+</html>
